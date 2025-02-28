@@ -1,9 +1,9 @@
-## oii, sou a ⋆˚࿔Ludimila𝜗𝜚˚⋆
+## oii, sou a Ludmila ⋆. 𐙚 ̊
 
 
- ˗ˏˋ ♡ ˎˊ˗ Estou cursando Sistemas de informação, motivada pela paixão por tecnologia.
- ˚ʚ♡ɞ˚ Atualmente, estou aprendendo os fundamentos de MySQL, HTML/CSS, JavaScript, Java, Python, React Native e TypeScript.
- 💻☕︎ Tenho muito interesse em algumas tecnologias como : Python, MySQL, JavaScript e afins;
+- ˗ˏˋ ♡ ˎˊ˗ Estou cursando Sistemas de informação, motivada pela paixão por tecnologia.
+- ˚ʚ♡ɞ˚ Atualmente, estou aprendendo os fundamentos de MySQL, HTML/CSS, JavaScript, Java, Python, React Native e TypeScript.
+- 💻☕︎ Tenho muito interesse em algumas tecnologias como : Python, MySQL, JavaScript e afins;
 
 
 <div align="center">
